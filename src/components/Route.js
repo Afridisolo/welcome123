@@ -1,0 +1,14 @@
+// import React from "react";
+// import header from '../components/header.js';
+// import Stylecss from '../components/header.css';
+// import Body from "../components/Body.js";
+// import Stylecss from "../components/Body.css";
+// import Brands from "../components/Brands.js";
+// import Stylecss from "../components/Brands.css";
+// import Read from "../components/Read.js";
+// import Stylecss from "../components/Read.css";
+// import Footer from "../components/Footer.js";
+// import Stylecss from "../components/Footer.css";
+// import Final from "../components/Final.js";
+// import Stylecss from "../components/Final.css";
+// import {useNavigate} from "react-router-dom";
